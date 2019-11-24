@@ -1,4 +1,4 @@
 let divide = function() {
-  divide = 2000/100;
-  return divide
+  return  2000/100;
+  
 }
